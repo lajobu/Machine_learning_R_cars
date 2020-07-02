@@ -2,4 +2,4 @@
 
 Here you can find my first Machine Learning project in R:
 
-![alt text](/Users/lajobu/Desktop/Projects/ML/Classification/cars.jpeg)
+![alt text](https://github.com/lajobu/Machine_learning_R_cars/blob/master/cars.jpeg)
