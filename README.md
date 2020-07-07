@@ -1,14 +1,15 @@
 # Classification methods applied to an imbalanced big dataset
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 Here you can find my first`Machine Learning project` in R:
 
 ![alt text](https://github.com/lajobu/Machine_learning_R_cars/blob/master/cars.jpeg)
 
-## [R_markdown](https://github.com/lajobu/Machine_learning_R_cars/blob/master/ML_Classification.Rmd)
-## [RPubs](https://rpubs.com/Lajobu/ML_classification)
+## [:white_check_mark: R_markdown](https://github.com/lajobu/Machine_learning_R_cars/blob/master/ML_Classification.Rmd)
+## [:white_check_mark: RPubs](https://rpubs.com/Lajobu/ML_classification)
 
-
-## Description: 
+## :star: Description: 
 
 This analysis is part of the final project of the subject `Machine Learning 1: classification methods` taught at the `University of Warsaw`. The final project consisted in two projects `regression` and `classification` made together with `Lashari Gochiashvili`. 
 
@@ -20,33 +21,33 @@ Aditionaly, several techniches will be applied in order to find the best model `
 
 All of these techniques are based on the `caret package`, one of the most known `R package` for `Machine Learning`
 
-## Some insights:
+## :star: Some insights:
 
-### 1) Imabalanced data:
+### :ballot_box_with_check: 1) Imabalanced data:
 
 ![alt text](https://github.com/lajobu/Machine_learning_R_cars/blob/master/Imbalanced.png)
 
-### 2) Categorical variables:
+### :ballot_box_with_check: 2) Categorical variables:
 
 ![alt text](https://github.com/lajobu/Machine_learning_R_cars/blob/master/Categorical.png)
 
-### 3) Numeric variables:
+### :ballot_box_with_check: 3) Numeric variables:
 
 ![alt text](https://github.com/lajobu/Machine_learning_R_cars/blob/master/Numeric.png)
 
-### 4) Learning Vector Quantization:
+### :ballot_box_with_check: 4) Learning Vector Quantization:
 
 ![alt text](https://github.com/lajobu/Machine_learning_R_cars/blob/master/Learning_Vector_Quantization.png)
 
-### 5) k-nearest Neighbors:
+### :ballot_box_with_check: 5) k-nearest Neighbors:
 
 ![alt text](https://github.com/lajobu/Machine_learning_R_cars/blob/master/KNN.png)
 
-### 6) Results:
+### :ballot_box_with_check: 6) Results:
 
 ![alt text](https://github.com/lajobu/Machine_learning_R_cars/blob/master/Results.png)
 
-## Conclusions:
+## :star: Conclusions:
 
 * For the dataset `cars` the best `classification` model is `Quadratic Discriminant` with ` repeated cross validation` and `down-sampling`
 
