@@ -7,7 +7,7 @@ Here you can find my first`Machine Learning project` in R:
 ![alt text](https://github.com/lajobu/Machine_learning_R_cars/blob/master/cars.jpeg)
 
 ## [:white_check_mark: R_markdown](https://github.com/lajobu/Machine_learning_R_cars/blob/master/ML_Classification.Rmd)
-## [:white_check_mark: RPubs](https://rpubs.com/Lajobu/ML_classification)
+## [:white_check_mark: RPubs](https://rpubs.com/Lajobu/ML_classification) 
 
 ## :star: Description: 
 
