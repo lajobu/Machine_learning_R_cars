@@ -1,4 +1,4 @@
-# Classification methods applied to an imbalanced big dataset
+# Classification methods applied to an imbalanced big dataset 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
